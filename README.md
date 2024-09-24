@@ -8,12 +8,12 @@ The goal of this project is to explore and analyze the Netflix dataset to unders
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
-- [Dataset](#dataset)
-- [EDA Approach](#eda-approach)
-- [Key Insights](#key-insights)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Future Work](#future-work)
+- [Dataset](#-dataset)
+- [EDA Approach](#-eda-approach)
+- [Key Insights](#-key-insights)
+- [Prerequisites](#-prerequisites)
+- [Usage](#-usage)
+- [Future Work](#-future-work)
 
 ## 📊 Dataset
 
